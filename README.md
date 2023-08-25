@@ -1,5 +1,5 @@
 # discord.jsSlashcommandhandler
-for discord slash commands IG
+for discord slash commands IG.
 
 Node js 16.6.0 or newer needed for this to work.
 
